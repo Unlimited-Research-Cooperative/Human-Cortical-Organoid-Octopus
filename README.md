@@ -21,7 +21,7 @@
 <br>
 <br>
 <h1 align="center">Idea</h1>
-Implantating human cerebral organoids into an octopus, for computational experiments towards synthetic biological intelligence
+Implanting human cerebral organoids into an octopus brain, for computational experiments towards synthetic biological intelligence
 
 <br>
 <br>
